@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/ts-react-2/static/css/main.a8e9e443.chunk.css",
+    "main.js": "/ts-react-2/static/js/main.438dec18.chunk.js",
+    "main.js.map": "/ts-react-2/static/js/main.438dec18.chunk.js.map",
+    "runtime-main.js": "/ts-react-2/static/js/runtime-main.3e790f32.js",
+    "runtime-main.js.map": "/ts-react-2/static/js/runtime-main.3e790f32.js.map",
+    "static/css/2.c1256375.chunk.css": "/ts-react-2/static/css/2.c1256375.chunk.css",
+    "static/js/2.b53c9320.chunk.js": "/ts-react-2/static/js/2.b53c9320.chunk.js",
+    "static/js/2.b53c9320.chunk.js.map": "/ts-react-2/static/js/2.b53c9320.chunk.js.map",
+    "static/js/3.d084df97.chunk.js": "/ts-react-2/static/js/3.d084df97.chunk.js",
+    "static/js/3.d084df97.chunk.js.map": "/ts-react-2/static/js/3.d084df97.chunk.js.map",
+    "index.html": "/ts-react-2/index.html",
+    "static/css/2.c1256375.chunk.css.map": "/ts-react-2/static/css/2.c1256375.chunk.css.map",
+    "static/css/main.a8e9e443.chunk.css.map": "/ts-react-2/static/css/main.a8e9e443.chunk.css.map",
+    "static/js/2.b53c9320.chunk.js.LICENSE.txt": "/ts-react-2/static/js/2.b53c9320.chunk.js.LICENSE.txt",
+    "static/media/logo.27f03683.png": "/ts-react-2/static/media/logo.27f03683.png",
+    "static/media/ts1.6648d642.jpg": "/ts-react-2/static/media/ts1.6648d642.jpg",
+    "static/media/ts10.654908ed.jpg": "/ts-react-2/static/media/ts10.654908ed.jpg",
+    "static/media/ts2.fa07a946.jpg": "/ts-react-2/static/media/ts2.fa07a946.jpg",
+    "static/media/ts3.f85d0cb2.jpg": "/ts-react-2/static/media/ts3.f85d0cb2.jpg",
+    "static/media/ts4.ea01b4fd.jpg": "/ts-react-2/static/media/ts4.ea01b4fd.jpg",
+    "static/media/ts5.eb2393fd.jpg": "/ts-react-2/static/media/ts5.eb2393fd.jpg",
+    "static/media/ts6.2a51abd1.jpg": "/ts-react-2/static/media/ts6.2a51abd1.jpg",
+    "static/media/ts7.fccf4530.jpg": "/ts-react-2/static/media/ts7.fccf4530.jpg",
+    "static/media/ts8.c7b0713f.jpg": "/ts-react-2/static/media/ts8.c7b0713f.jpg",
+    "static/media/ts9.0d24317f.jpg": "/ts-react-2/static/media/ts9.0d24317f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e790f32.js",
+    "static/css/2.c1256375.chunk.css",
+    "static/js/2.b53c9320.chunk.js",
+    "static/css/main.a8e9e443.chunk.css",
+    "static/js/main.438dec18.chunk.js"
+  ]
+}
